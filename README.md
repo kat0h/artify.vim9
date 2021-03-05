@@ -31,7 +31,7 @@ I have rewritten it with vim9script on Vim v8.2.2566.
 MIT
 
 # 𝚂𝚙𝚎𝚌𝚒𝚊𝚕 𝚃𝚑𝚊𝚗𝚔𝚜
-This plugin was inspired by `delphinus/artify.nvim` `sainnhe/artify.vim`
+This plugin was inspired by `delphinus/artify.nvim`, `sainnhe/artify.vim` and `@obcat`
 
 # 𝙰𝚞𝚝𝚑𝚘𝚛
 Kota Kato [kato-k](https://github.com/kato-k)
