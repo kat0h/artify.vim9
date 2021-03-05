@@ -1,5 +1,5 @@
 # 𝙰𝚛𝚝𝚒𝚏𝚢.𝚟𝚒𝚖
-Yet another fork of sainnhe/artify.vim.
+Yet another fork of sainnhe/artify.vim. **150x faster than the original version.**
 
 I have rewritten it with vim9script on Vim v8.2.2566.
 
