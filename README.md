@@ -34,4 +34,4 @@ MIT
 This plugin was inspired by `delphinus/artify.nvim`, `sainnhe/artify.vim` and `@obcat`
 
 # 𝙰𝚞𝚝𝚑𝚘𝚛
-Kota Kato [kato-k](https://github.com/kato-k)
+Kota Kato [kato-k](https://github.com/kat0h)
